@@ -1,6 +1,6 @@
 package DeepAndShallow;
 
-public class Demo {
+public class DemoShallow {
     public static void main(String[] args) {
 
         ShallowCopy obj1 = new ShallowCopy("shallow", new Student("240328"));
